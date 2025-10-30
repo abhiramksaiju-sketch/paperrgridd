@@ -1,0 +1,186 @@
+* {
+  margin: 0;
+  font-family : Arial;
+  border : border-box;
+}
+
+.navbar{
+    height : 50px;
+    background-color : #0f1111;
+    color : white;
+    display : flex;
+    align-items : center;
+    justify-content : center;
+    border-bottom : 0.2px solid grey;
+}
+
+.free-s {
+     color : #cccccc;
+    font-size : 1rem;
+}
+
+.arrow-icon{
+   margin-left : 20px;
+}
+
+.navbar2{
+    height : 80px;
+    background-color : #0f1111;
+    color : white;
+    display : flex;
+    align-items : center;
+    justify-content : center;
+
+}
+
+
+.paper {
+    font-size :30px;
+    float : right;
+    margin-right : 60px;   
+}
+
+.panel-ele p {
+    display : inline;
+    margin : 10px;
+    
+}
+
+.profile-logo {
+    font-size : 1.5rem;
+    margin-left : 560px;
+}
+
+.cart-logo {
+    font-size : 1.5rem;
+    margin-left : 20px;
+}
+
+.shop-section {
+    display : flex;
+    justify-content : center;
+}
+
+.box {
+    height : 500px;
+    width : 25%;
+    background-color : white;
+   padding : 20px 20px  0px;
+    
+
+}
+
+.box-img {
+    height :500px;
+    background-size : cover;
+    margin-top : 0.55rem;
+    margin-bottom : 1rem;
+    
+}
+
+.background{
+
+    align-items : center;
+    display : flex;
+
+
+
+}
+.founder-img{
+ height : 400px;
+    width : 35%;
+    background-color : white;
+   padding : 100px 20px  0px;
+
+}
+.image-founder {
+    height :600px;
+    background-size : cover;
+    margin-left : 200px;
+    
+}
+
+.note-fou p{
+    font-weight: 600;
+    font-size : 24px;
+    margin-left :50px;
+    margin-bottom : 40px;
+    color : #121212;
+    
+}
+
+.note-fou a {
+    font-size : 20px;
+    margin-left :50px;
+    color : #12121283;
+    
+
+}
+
+.note-fou button{
+    background-color : black;
+    color : white;
+    padding : 15px 35px;
+    font-size :20px;
+    margin-left : 50px;
+    margin-top : 50px;
+    
+    
+}
+
+.background1 {
+    background-color : #0f1111;
+    height : 300px;
+    
+    margin-top : 350px;
+
+}
+
+
+.foot-panel p {
+    color : white;
+     display : flex;
+    justify-content : center;
+    padding : 30px;
+    font-size : 20px;
+
+
+}
+
+.foot-panel a {
+    color : #ffffffB3;
+      display : flex;
+    justify-content : center;
+    margin-bottom : 20px;
+
+}
+
+.insta-logo {
+   height : 50px; 
+   display : flex;
+   color : white;
+   align-items : center;
+   justify-content : space-evenly;
+   font-size : 20px;
+}
+
+.foot-panel2 {
+   margin-left : 400px;
+   align-items : center;
+   display : flex;
+   height : 100px;
+}
+
+.foot-panel2 p{
+    color : #ffffffB3;
+   font-size : 14px;
+   font-family: sans-serif;
+   margin-left : 20px;
+}
+
+.background2 {
+    background-color : #0f1111;
+    height : 100px;
+    border-top: 0.5px solid #505050;
+
+}
